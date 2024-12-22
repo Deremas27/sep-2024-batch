@@ -1,11 +1,13 @@
 .dere {
   background-color: aquamarine;
 }
-#group{
+#group {
   background-color: cadetblue;
   color: white;
   text-align: center;
   width: 100%;
   height: auto;
-  
+}
+.gedion {
+  background-color: greenyellow;
 }
