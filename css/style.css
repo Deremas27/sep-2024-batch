@@ -1,13 +1,12 @@
 .dere {
   background-color: aquamarine;
 }
-#group{
+#group {
   background-color: cadetblue;
   color: white;
   text-align: center;
   width: 100%;
   height: auto;
-  
 }
 
 /* Style for the message box */
@@ -25,11 +24,10 @@
 /* Style for the appreciation message */
 #appreciation {
   font-size: 18px;
-  color: #2d572c; 
+  color: #2d572c;
   font-style: italic;
   margin-bottom: 10px;
 }
-
 
 #september-motto {
   font-size: 20px;
@@ -44,4 +42,11 @@
   color: black;
   font-weight: bold;
   margin-top: 10px;
+}
+#redu {
+  color: brown;
+}
+.du {
+  background-color: darkcyan;
+  text-align: center;
 }
