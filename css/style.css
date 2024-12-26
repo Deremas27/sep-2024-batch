@@ -7,7 +7,47 @@
   text-align: center;
   width: 100%;
   height: auto;
+<<<<<<< HEAD
 }
 .gedion {
   background-color: greenyellow;
+=======
+  
+}
+
+/* Style for the message box */
+#message-box {
+  border: 2px solid #4caf50; /* Green border */
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  text-align: center;
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the appreciation message */
+#appreciation {
+  font-size: 18px;
+  color: #2d572c; 
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+
+#september-motto {
+  font-size: 20px;
+  color: #d9534f; /* Red for emphasis */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Style for your name */
+#hana-name {
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+  margin-top: 10px;
+>>>>>>> 9006677723077b6cebcf8a5cf7a8796b1819116b
 }
